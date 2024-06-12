@@ -1,0 +1,80 @@
+:root{
+    /*color*/
+    --black:#000000;
+    --orange:#FF6600;
+    --white:#fff;
+    --dark-blue:#0B1B35;
+    --grey:#8A898E;
+
+    /*a:hover*/
+    --a-hover-color: #FF6600;
+    --a-hover-transition:0.3s;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Ageo Trial';
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+
+/*grid*/
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12 {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.col-1{
+    width: calc(100%/12*1);
+}
+.col-2{
+    width: calc(100%/12*2);
+}
+.col-3{
+    width: calc(100%/12*3);
+}
+.col-4{
+    width: calc(100%/12*4);
+}
+.col-5{
+    width: calc(100%/12*5);
+}
+.col-6{
+    width: calc(100%/12*6);
+}
+.col-7{
+    width: calc(100%/12*7);
+}
+.col-8{
+    width: calc(100%/12*8);
+}
+.col-9{
+    width: calc(100%/12*9);
+}
+.col-10{
+    width: calc(100%/12*10);
+}
+.col-11{
+    width: calc(100%/12*11);
+}
+.col-12 {
+    width: calc(100%/12*12);
+}

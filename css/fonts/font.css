@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Ageo Trial';
+    src: url('AgeoTrial-Bold.woff2') format('woff2'),
+        url('AgeoTrial-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ageo Trial ExtBd';
+    src: url('AgeoTrial-ExtraBold.woff2') format('woff2'),
+        url('AgeoTrial-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ageo Trial';
+    src: url('AgeoTrial-Heavy.woff2') format('woff2'),
+        url('AgeoTrial-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ageo Trial';
+    src: url('AgeoTrial-Light.woff2') format('woff2'),
+        url('AgeoTrial-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ageo Trial Med';
+    src: url('AgeoTrial-Medium.woff2') format('woff2'),
+        url('AgeoTrial-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ageo Trial';
+    src: url('AgeoTrial-Regular.woff2') format('woff2'),
+        url('AgeoTrial-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ageo Trial SemBd';
+    src: url('AgeoTrial-SemiBold.woff2') format('woff2'),
+        url('AgeoTrial-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ageo Trial';
+    src: url('AgeoTrial-Thin.woff2') format('woff2'),
+        url('AgeoTrial-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
